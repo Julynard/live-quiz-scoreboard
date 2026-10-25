@@ -3,7 +3,7 @@
 Real-time quiz competitions: a host screen, contestants on their phones, live scoring and a lag indicator per player.
 
 > **Status: in development.** This repo is the plan and the write-up; the interactive demo is being built next.
-> Star or watch the repo to see it land. The live demo link will appear here.
+> **Demo preview:** https://julynard.github.io/live-quiz-scoreboard/ (becomes the live demo when it ships).
 
 Part of [Julynard Tago-on's portfolio](https://julynardtago-on.netlify.app/#projects). Based on the science quiz bee system I built for a national statistics agency.
 Client code is private, so this is a clean-room demo with fictional data. No client names or real data.
